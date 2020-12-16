@@ -1,6 +1,6 @@
-### Hi there, I'm Abdulfetah 👋
+### Hi there, I'm Dawit 👋
 
-### Connect with me:
+<!-- ### Connect with me:
 
 <a href="https://t.me/ME_878">
   <img width="32" align="left"
@@ -20,7 +20,7 @@
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 
-<br />
+<br /> -->
 
 ### Languages and Tools:
 
