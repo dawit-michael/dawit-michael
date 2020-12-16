@@ -1,7 +1,6 @@
 ##### Hi there 🙃,
 ### I'm Dawit Front-end developer and UI/UX designer from Addis Abeba.
 
-<h3 align="center">Front-end developer and UI/UX designer from Addis Abeba.</h3>
 <img  src="https://undo.io/media/uploads/files/Frustrated_programmer.gif"/>
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dawit-michael&show_icons=true&hide_border=true" />
