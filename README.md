@@ -2,7 +2,7 @@
 I'm Dawit  from Addis Abeba. I specialize in Front-End Development and UI/UX Design.
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dawit-michael&show_icons=true&hide_border=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-michael&theme=tokyonight)
 <!-- ### Connect with me:
 
 <a href="https://t.me/ME_878">
