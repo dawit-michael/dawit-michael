@@ -1,4 +1,7 @@
-### Hi there, I'm Dawit 👋
+### Hi there 🙃,
+I'm Dawit  from Addis Abeba. I specialize in Front-End Development and UI/UX Design.
+ 
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dawit-michael&show_icons=true&hide_border=true" />
 
 <!-- ### Connect with me:
 
@@ -58,6 +61,5 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dawit-michael&show_icons=true&hide_border=true" />
 
 </details>
