@@ -1,28 +1,9 @@
 ### Hi there 🙃,
 I'm Dawit  from Addis Abeba. I specialize in Front-End Development and UI/UX Design.
 
-<img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif"/>
+<img width="100vh" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif"/>
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dawit-michael&show_icons=true&hide_border=true" />
-<!-- ### Connect with me:
-
-<a href="https://t.me/ME_878">
-  <img width="32" align="left"
-     alt="My Instagram profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
-</a>
-
-<a href="https://t.me/ME_878">
-  <img width="32" align="left"
-     alt="My Linkedin profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-
-<a href="https://www.instagram.com/abdulfetah_jemal">
-  <img width="32" align="left"
-     alt="My Instagram profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
 
 <br /> -->
 
