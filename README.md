@@ -1,7 +1,7 @@
 ### Hi there 🙃,
 I'm Dawit  from Addis Abeba. I specialize in Front-End Development and UI/UX Design.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=dawit-michael&color=dc143c)
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dawit-michael&show_icons=true&hide_border=true" />
 
