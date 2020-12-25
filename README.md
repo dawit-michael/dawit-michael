@@ -2,8 +2,7 @@
 ### I'm Dawit Front-end developer and UI/UX designer from Addis Abeba.
 
 <img  src="https://undo.io/media/uploads/files/Frustrated_programmer.gif"/>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets4.lottiefiles.com/packages/lf20_47dwpmff.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+<img src="https://lottiefiles.com/36121-developer-at-work"/>
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dawit-michael&show_icons=true&hide_border=true" />
 
