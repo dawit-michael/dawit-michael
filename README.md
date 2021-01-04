@@ -1,5 +1,5 @@
 ##### Hi there 🙃,
-### I'm Dawit Front-end developer and UI/UX designer from Addis Abeba.
+### I'm Dawit Front-end developer and UI/UX designer from Addis Abeba. 
 
 <img  src="https://undo.io/media/uploads/files/Frustrated_programmer.gif"/>
 
